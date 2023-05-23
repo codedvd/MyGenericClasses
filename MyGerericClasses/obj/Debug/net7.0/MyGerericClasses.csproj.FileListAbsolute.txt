@@ -1,0 +1,45 @@
+C:\Users\Decagon\Desktop\C# - Dev\Web Dev with ASP\Sample Folder\MyGerericClasses\MyGerericClasses\bin\Debug\net7.0\MyGerericClasses.exe
+C:\Users\Decagon\Desktop\C# - Dev\Web Dev with ASP\Sample Folder\MyGerericClasses\MyGerericClasses\bin\Debug\net7.0\MyGerericClasses.deps.json
+C:\Users\Decagon\Desktop\C# - Dev\Web Dev with ASP\Sample Folder\MyGerericClasses\MyGerericClasses\bin\Debug\net7.0\MyGerericClasses.runtimeconfig.json
+C:\Users\Decagon\Desktop\C# - Dev\Web Dev with ASP\Sample Folder\MyGerericClasses\MyGerericClasses\bin\Debug\net7.0\MyGerericClasses.dll
+C:\Users\Decagon\Desktop\C# - Dev\Web Dev with ASP\Sample Folder\MyGerericClasses\MyGerericClasses\bin\Debug\net7.0\MyGerericClasses.pdb
+C:\Users\Decagon\Desktop\C# - Dev\Web Dev with ASP\Sample Folder\MyGerericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\C# - Dev\Web Dev with ASP\Sample Folder\MyGerericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\C# - Dev\Web Dev with ASP\Sample Folder\MyGerericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\C# - Dev\Web Dev with ASP\Sample Folder\MyGerericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\C# - Dev\Web Dev with ASP\Sample Folder\MyGerericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\C# - Dev\Web Dev with ASP\Sample Folder\MyGerericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.dll
+C:\Users\Decagon\Desktop\C# - Dev\Web Dev with ASP\Sample Folder\MyGerericClasses\MyGerericClasses\obj\Debug\net7.0\refint\MyGerericClasses.dll
+C:\Users\Decagon\Desktop\C# - Dev\Web Dev with ASP\Sample Folder\MyGerericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.pdb
+C:\Users\Decagon\Desktop\C# - Dev\Web Dev with ASP\Sample Folder\MyGerericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\C# - Dev\Web Dev with ASP\Sample Folder\MyGerericClasses\MyGerericClasses\obj\Debug\net7.0\ref\MyGerericClasses.dll
+C:\Users\Decagon\Desktop\Decagon Task\week-2-codedvd\MyGerericClasses\MyGerericClasses\bin\Debug\net7.0\MyGerericClasses.exe
+C:\Users\Decagon\Desktop\Decagon Task\week-2-codedvd\MyGerericClasses\MyGerericClasses\bin\Debug\net7.0\MyGerericClasses.deps.json
+C:\Users\Decagon\Desktop\Decagon Task\week-2-codedvd\MyGerericClasses\MyGerericClasses\bin\Debug\net7.0\MyGerericClasses.runtimeconfig.json
+C:\Users\Decagon\Desktop\Decagon Task\week-2-codedvd\MyGerericClasses\MyGerericClasses\bin\Debug\net7.0\MyGerericClasses.dll
+C:\Users\Decagon\Desktop\Decagon Task\week-2-codedvd\MyGerericClasses\MyGerericClasses\bin\Debug\net7.0\MyGerericClasses.pdb
+C:\Users\Decagon\Desktop\Decagon Task\week-2-codedvd\MyGerericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\Decagon Task\week-2-codedvd\MyGerericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\Decagon Task\week-2-codedvd\MyGerericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\Decagon Task\week-2-codedvd\MyGerericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\Decagon Task\week-2-codedvd\MyGerericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\Decagon Task\week-2-codedvd\MyGerericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.dll
+C:\Users\Decagon\Desktop\Decagon Task\week-2-codedvd\MyGerericClasses\MyGerericClasses\obj\Debug\net7.0\refint\MyGerericClasses.dll
+C:\Users\Decagon\Desktop\Decagon Task\week-2-codedvd\MyGerericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.pdb
+C:\Users\Decagon\Desktop\Decagon Task\week-2-codedvd\MyGerericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\Decagon Task\week-2-codedvd\MyGerericClasses\MyGerericClasses\obj\Debug\net7.0\ref\MyGerericClasses.dll
+C:\Users\Decagon\source\Professional Repo\MyGenericClasses\MyGerericClasses\bin\Debug\net7.0\MyGerericClasses.exe
+C:\Users\Decagon\source\Professional Repo\MyGenericClasses\MyGerericClasses\bin\Debug\net7.0\MyGerericClasses.deps.json
+C:\Users\Decagon\source\Professional Repo\MyGenericClasses\MyGerericClasses\bin\Debug\net7.0\MyGerericClasses.runtimeconfig.json
+C:\Users\Decagon\source\Professional Repo\MyGenericClasses\MyGerericClasses\bin\Debug\net7.0\MyGerericClasses.dll
+C:\Users\Decagon\source\Professional Repo\MyGenericClasses\MyGerericClasses\bin\Debug\net7.0\MyGerericClasses.pdb
+C:\Users\Decagon\source\Professional Repo\MyGenericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\Professional Repo\MyGenericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\Professional Repo\MyGenericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\Professional Repo\MyGenericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.AssemblyInfo.cs
+C:\Users\Decagon\source\Professional Repo\MyGenericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\Professional Repo\MyGenericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.dll
+C:\Users\Decagon\source\Professional Repo\MyGenericClasses\MyGerericClasses\obj\Debug\net7.0\refint\MyGerericClasses.dll
+C:\Users\Decagon\source\Professional Repo\MyGenericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.pdb
+C:\Users\Decagon\source\Professional Repo\MyGenericClasses\MyGerericClasses\obj\Debug\net7.0\MyGerericClasses.genruntimeconfig.cache
+C:\Users\Decagon\source\Professional Repo\MyGenericClasses\MyGerericClasses\obj\Debug\net7.0\ref\MyGerericClasses.dll
