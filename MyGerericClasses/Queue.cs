@@ -9,43 +9,74 @@ using MyGerericClasses;
 
 public class SimpleQueue<T>
 {
-    private LinkedListing<T> queue;
+    private Node<T> _head;
+    private Node<T> _tail;
+
     public SimpleQueue()
     {
-        queue = new LinkedListing<T>();
+        _head = null!;
+        _tail = null!;
     }
-
     // Returns true if the queue is empty and false is it isn’t
     public bool IsEmpty()
     {
-        if(queue == null)
-        {
-            return true;
-        }
-        return false;
+        return _head == null;
     }
-
     // Adds an item to the tail of the queue 
     public void Enqueue(T item)
     {
-        queue.Add(item);
+        Node<T> newNode = new Node<T>(item);
+        if (_head == null)
+        {
+            _head = newNode;
+            _tail = newNode;
+        }
+        else
+        {
+            _tail.Next = newNode;
+            _tail = newNode;
+        }
     }
-
     // Removes and returns the item at the head of the queue
     public T Dequeue()
     {
-        if (IsEmpty())
+        if (_head == null)
         {
-            Console.WriteLine(("Queue is empty"));
+            Console.WriteLine("The queue is empty");
+            return default(T)!;
         }
-        T item = queue.Head.Value;
-        queue.Remove(item);
-        return item;
+        T value = _head.Value;
+        _head = _head.Next;
+        if (_head == null)
+        {
+            _tail = null!;
+        }
+        return value;
     }
 
     // Shows the number of items currently in the queue
-    public int Size()
+    public int Size
     {
-        return queue.ListSize();
+        get
+        {
+            int count = 0;
+            Node<T> current = _head;
+            while (current != null)
+            {
+                count++;
+                current = current.Next;
+            }
+            return count;
+        }
+    }
+    // Printing out the elements of the Queue
+    public void PrintLinkedList()
+    {
+        Node<T> current = _head;
+        while (current != null)
+        {
+            Console.WriteLine(current.Value);
+            current = current.Next;
+        }
     }
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Decagon\\source\\Professional Repo\\MyGenericClasses\\MyGerericClasses\\MyGerericClasses.csproj",
+      "projectUniqueName": "C:\\Users\\Decagon\\Desktop\\Decagon Task\\week-2-codedvd\\MyGerericClasses\\MyGerericClasses\\MyGerericClasses.csproj",
       "projectName": "MyGerericClasses",
-      "projectPath": "C:\\Users\\Decagon\\source\\Professional Repo\\MyGenericClasses\\MyGerericClasses\\MyGerericClasses.csproj",
+      "projectPath": "C:\\Users\\Decagon\\Desktop\\Decagon Task\\week-2-codedvd\\MyGerericClasses\\MyGerericClasses\\MyGerericClasses.csproj",
       "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Decagon\\source\\Professional Repo\\MyGenericClasses\\MyGerericClasses\\obj\\",
+      "outputPath": "C:\\Users\\Decagon\\Desktop\\Decagon Task\\week-2-codedvd\\MyGerericClasses\\MyGerericClasses\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

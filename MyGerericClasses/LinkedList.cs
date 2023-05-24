@@ -8,23 +8,13 @@ namespace MyGerericClasses
 {
     public class LinkedListing<T>
     {
-        private LinkedListing<T>.Node<T> head;
-        private LinkedListing<T>.Node<T> tail;
-
-        public class Node<T>
+        private Node<T> Head;
+        private Node<T> Tail;
+        public LinkedListing()
         {
-            public T Value { get; set; } = default!;
-            public Node<T> Next { get; set; } = default!;
-
-            public Node(T value)
-            {
-                Value = value;
-                Next = null!;
-            }
+            Head = null;
+            Tail = null;
         }
-
-        public Node<T> Head { get => head; set => head = value; }
-        public Node<T> Tail { get => tail; set => tail = value; }
 
         // Adds an item to the tail of the LinkedList and returns the linked list’s size 
         public void Add(T item)
@@ -101,61 +91,28 @@ namespace MyGerericClasses
             return -1;
         }
 
-        public T LastItem()
-        {
-            if (Tail == null)
-            {
-                return default!;
-            }
-            else
-            {
-                return Tail.Value;
-            }
-        }
-
-        public T RemoveandPop()
-        {
-            if (Head == null)
-            {
-                return default!;
-            }
-
-            if (Head == Tail)
-            {
-                T value = Head.Value;
-                Head = null!;
-                Tail = null!;
-                return value;
-            }
-
-            Node<T> current = Head;
-
-            while (current.Next != Tail)
-            {
-                current = current.Next;
-            }
-
-            T last_value = Tail.Value;
-
-            Tail = current;
-
-            Tail.Next = null!;
-
-            return last_value;
-        }
-
-        public int ListSize()
+        public void PrintLinkedList()
         {
             Node<T> current = Head;
-            int count = 0;
-
             while (current != null)
             {
-                count++;
+                Console.WriteLine(current.Value);
                 current = current.Next;
             }
-
-            return count;
         }
+
+        //public int ListSize()
+        //{
+        //    Node<T> current = Head;
+        //    int count = 0;
+
+        //    while (current != null)
+        //    {
+        //        count++;
+        //        current = current.Next;
+        //    }
+
+        //    return count;
+        //}
     }
 }
